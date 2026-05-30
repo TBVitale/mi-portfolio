@@ -47,10 +47,10 @@ export const projects = [
     description:
       'Sistema web de gestión clínica desarrollado con Laravel, con autenticación, roles de usuario, paneles administrativos y gestión de pacientes, turnos e insumos.',
     tags: ['Laravel', 'PHP', 'MySQL', 'Livewire', 'Tailwind CSS'],
-    status: 'Deploy pendiente',
+    status: 'Publicado',
     previewLabel: 'Sistema',
     image: '/clinica-salud-prioritaria.png',
-    demoUrl: '#',
+    demoUrl: 'https://clinica-salud-prioritaria-production.up.railway.app/',
     repositoryUrl: 'https://github.com/TBVitale/clinica-salud-prioritaria',
   },
   {
